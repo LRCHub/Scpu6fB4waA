@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プロポーズ / 可不",
+  "base_artist": "内緒のピアス",
+  "createdAt": "2026-03-16T09:39:59.466944Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロポーズ",
+      "artist": "内緒のピアス",
+      "has_synced": false,
+      "path": "select/pl_01_プロポーズ_内緒のピアス.txt"
+    }
+  ]
+}
